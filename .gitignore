@@ -1,3 +1,7 @@
 *.csv
 *.nc
+*.grid
+*.xlsx
+/input
+/output
 testing_input_file_conservation_check.ipynb
