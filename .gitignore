@@ -4,4 +4,5 @@
 *.xlsx
 /input
 /output
+*.zip
 testing_input_file_conservation_check.ipynb
